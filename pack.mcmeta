@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 16,
+    "description": "Minecraft's 1.13 And Older Textures For 1.14+",
+    "supported_formats": {
+      "min_inclusive": 16,
+      "max_inclusive": 99
+    }
+  }
+}
