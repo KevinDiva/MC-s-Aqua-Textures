@@ -1,8 +1,10 @@
-**Minecraft's 1.13 Textures**
+A Texture Pack Inspired by the Classic 1.13 Minecraft Textures
 
-The Classic 1.13 Textures But For Later Versions Of The Game.
+Where To Download?
 
-Notice :
+Notice
+
 
 This Pack Is Not Affiliated With Mojang Or Microsoft.
 The Contents In This Pack Are Not In Anyway Owned By The Publisher Of This Pack.
+
