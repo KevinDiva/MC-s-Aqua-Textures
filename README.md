@@ -6,6 +6,8 @@ Where To Download?
 
 [![Modrinth](https://img.shields.io/modrinth/v/entity-model-features?color=00AF5C&label=Modrinth&style=round&logo=modrinth)](https://modrinth.com/mod/entity-model-features)
 
+[![Github](https://img.shields.io/github/v/release/KevinDiva/ProgrammerTextures?logo=github&label=Github)](https://github.com/KevinDiva/ProgrammerTextures)
+
 Notice
 
 
